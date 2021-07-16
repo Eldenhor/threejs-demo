@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/threejs-demo/static/js/main.fe097b52.chunk.js",
-    "main.js.map": "/threejs-demo/static/js/main.fe097b52.chunk.js.map",
+    "main.js": "/threejs-demo/static/js/main.3b6d50d9.chunk.js",
+    "main.js.map": "/threejs-demo/static/js/main.3b6d50d9.chunk.js.map",
     "runtime-main.js": "/threejs-demo/static/js/runtime-main.f4536816.js",
     "runtime-main.js.map": "/threejs-demo/static/js/runtime-main.f4536816.js.map",
     "static/js/2.c475464d.chunk.js": "/threejs-demo/static/js/2.c475464d.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.f4536816.js",
     "static/js/2.c475464d.chunk.js",
-    "static/js/main.fe097b52.chunk.js"
+    "static/js/main.3b6d50d9.chunk.js"
   ]
 }
